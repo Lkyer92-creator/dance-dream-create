@@ -1,0 +1,1 @@
+{"dependencies":{"next":"^14.2.0","react":"^18.3.0","react-dom":"^18.3.0"},"description":"A director's studio for building AI music videos scene by scene, with real fal.ai video generation.","name":"music-video-director","private":true,"scripts":{"build":"next build","dev":"next dev","start":"next start"},"version":"1.0.0"}
